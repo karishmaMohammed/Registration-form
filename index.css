@@ -1,0 +1,19 @@
+span{
+  color: goldenrod;
+}
+.registration-form{
+	width: 800px;
+  margin: 10px auto;
+  background: lightgray;
+  border: 5px solid black;
+  padding: 20px;
+  border-radius: 20px;
+}
+.btn{
+    border-radius: 20px;
+}
+/*.gender{
+  display: flex;
+  align-items: center;
+  text-align: center;
+}*/
